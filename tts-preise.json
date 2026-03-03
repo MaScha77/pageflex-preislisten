@@ -24,7 +24,7 @@
     "70149/tui-bu-c4-mf-tts": [
     { "qty": "ab 250",  "price": "0,13" },
     { "qty": "ab 500",  "price": "0,12" },
-    { "qty": "ab 1000",  "price": "0,11" },
+    { "qty": "ab 1000",  "price": "0,11" }
   ],
     "70559/tui-bp-tts-ae": [
     { "qty": 1000,  "price": "0,07" },
@@ -65,23 +65,33 @@
     { "qty": 500,  "price": "0,17" }
   ],
     "70559/tui-Aufkleber-Klein-tts": [
-    { "qty": "ab 200",  "price": "0,21" },
-    { "qty": "ab 1000",  "price": "0,19" }
+    { "qty": 100,  "price": "0,34" },
+    { "qty": 300,  "price": "0,14" },
+    { "qty": 500,  "price": "0,10" },
+    { "qty": 1000,  "price": "0,06" },
+    { "qty": 2500,  "price": "0,032" }
   ],
     "70559/tui-Aufkleber-Gross-tts)": [
-    { "qty": "ab 200",  "price": "0,21" },
-    { "qty": "ab 1000",  "price": "0,19" }
+    { "qty": 100,  "price": "0,36" },
+    { "qty": 300,  "price": "0,15" },
+    { "qty": 500,  "price": "0,10" },
+    { "qty": 1000,  "price": "0,065" },
+    { "qty": 2500,  "price": "0,036" }
   ],
     "70559/tui-Aufkleber-Gross-Oeffn-tts": [
-    { "qty": "ab 200",  "price": "0,21" },
-    { "qty": "ab 1000",  "price": "0,19" }
+    { "qty": 100,  "price": "0,36" },
+    { "qty": 300,  "price": "0,15" },
+    { "qty": 500,  "price": "0,10" },
+    { "qty": 1000,  "price": "0,065" },
+    { "qty": 2500,  "price": "0,036" }
   ],
     "70928/tui-ersatzplatte-stempel-trodat-4927-tts": [
-    { "qty": "ab 200",  "price": "0,21" },
-    { "qty": "ab 1000",  "price": "0,19" }
+    { "qty": 1,  "price": "20,90" }
   ],
     "70149/tui-bu-dinlang-mf-tts": [
-    { "qty": "ab 200",  "price": "0,21" },
-    { "qty": "ab 1000",  "price": "0,19" }
+    { "qty": "ab 250",  "price": "0,11" },
+    { "qty": "ab 500",  "price": "0,10" },
+    { "qty": "ab 1000",  "price": "0,08" },
+    { "qty": "ab 3000",  "price": "0,07" } 
   ]    
 }
