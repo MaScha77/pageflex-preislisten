@@ -17,8 +17,64 @@
   "70000/SU-AXOPlus500-TRC": [
     { "qty": 1,  "price": "13,90" }
   ],
-  "70149/tui-3jk-tts-262728-ae": [
+    "70149/tui-3jk-tts-262728-ae": [
     { "qty": "ab 200",  "price": "0,21" },
     { "qty": "ab 1000",  "price": "0,19" }
-  ]
+  ],
+    "70149/tui-bu-c4-mf-tts": [
+    { "qty": "ab 250",  "price": "0,13" },
+    { "qty": "ab 500",  "price": "0,12" },
+    { "qty": "ab 1000",  "price": "0,11" },
+  ],
+    "70559/tui-bp-tts-ae": [
+    { "qty": 1000,  "price": "0,07" },
+    { "qty": 3000,  "price": "0,06" }
+  ],
+    "70559/tui-bp-tts-3ae": [
+    { "qty": 1000,  "price": "0,07" },
+    { "qty": 3000,  "price": "0,06" }
+  ],
+    "70847/tui-CL-6430-20-MG-tts": [
+    { "qty": 1,  "price": "21,45" },
+    { "qty": 2,  "price": "15,16" },
+    { "qty": 3,  "price": "13,60" },
+    { "qty": 5,  "price": "12,38" },
+    { "qty": 10,  "price": "10,90" }
+  ],
+    "70928/tui-stempel-tordat-4927-tts": [
+    { "qty": 1,  "price": "34,90" }
+  ],
+    "70559/tui-VK-tts": [
+    { "qty": 100,  "price": "0,45" },
+    { "qty": 250,  "price": "0,26" }
+    { "qty": 500,  "price": "0,17" }
+  ],
+    "70559/tui-VK-Foto-Oeffn-tts": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" }
+  ],
+    "70559/tui-VK-Oeffn-tts": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" }
+  ],
+    "70559/tui-Aufkleber-Klein-tts": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" }
+  ],
+    "70559/tui-Aufkleber-Gross-tts)": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" }
+  ],
+    "70559/tui-Aufkleber-Gross-Oeffn-tts": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" }
+  ],
+    "70928/tui-ersatzplatte-stempel-trodat-4927-tts": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" }
+  ],
+    "70149/tui-bu-dinlang-mf-tts": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" }
+  ]    
 }
