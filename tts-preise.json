@@ -110,7 +110,7 @@
     { "qty": "ab 20",  "price": "0,40" }
   ],
     "70000/tui-abverkauf-tts": [
-    { "qty": "ab 20",  "price": "0,40" }
+    { "qty": 1,  "price": "0,00" }
   ],
     "70559/tui-Notizblock-A5-LG-tts": [
     { "qty": "ab 10",  "price": "1,15" }
