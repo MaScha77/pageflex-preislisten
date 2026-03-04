@@ -93,5 +93,8 @@
     { "qty": "ab 500",  "price": "0,10" },
     { "qty": "ab 1000",  "price": "0,08" },
     { "qty": "ab 3000",  "price": "0,07" } 
-  ]    
+  ]
+    "70928/tui-stempel-tordat-4927-tts": [
+    { "qty": "ab 10",  "price": "0,16" }
+  ],
 }
