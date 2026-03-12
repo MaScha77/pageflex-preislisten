@@ -127,5 +127,10 @@
   ],
     "70559/tui-Notizblock-A5-LG-tts": [
     { "qty": "ab 10",  "price": "1,15" }
-  ]
+  ],
+    "70559/tui-wb-postkarte-a6-tts-ae": [
+    { "qty": "ab 100",  "price": "0,39" },
+    { "qty": "ab 250",  "price": "0,26" },
+    { "qty": "ab 500",  "price": "0,18" }   
+  ]  
 }
