@@ -141,5 +141,13 @@
   ],
     "70559/tui-AGhaenger-A4-120g-tts": [
     { "qty": "1",  "price": "0,09" }     
-  ]  
+  ],
+    "70179/tui-FlAnh-60x162mm-MehrWert-AE-TTS": [
+    { "qty": 25,  "price": "1,95" },
+    { "qty": 50,  "price": "1,10" },
+    { "qty": 75,  "price": "0,90" },
+    { "qty": 100,  "price": "0,79" },
+    { "qty": 250,  "price": "0,49" }
+    { "qty": 500,  "price": "0,35" }      
+  ]
 }
