@@ -155,6 +155,43 @@
     { "qty": 75,  "price": "0,90" },
     { "qty": 100,  "price": "0,79" },
     { "qty": 250,  "price": "0,49" },
-    { "qty": 500,  "price": "0,35" }      
+    { "qty": 500,  "price": "0,35" }    
+ ],
+    "70208/4mp-tts": [
+    { "qty": "ab 1",  "price": "3,99" },
+    { "qty": "ab 5",  "price": "3,75" },
+    { "qty": "ab 10",  "price": "3,50" },
+    { "qty": "ab 50",  "price": "2,99" },
+    { "qty": "ab 100",  "price": "2,80" }
+  ],
+    "70208/4mp-tts-ae": [
+    { "qty": "ab 25",  "price": "5,25" },
+    { "qty": "ab 50",  "price": "3,75" },
+    { "qty": "ab 100",  "price": "3,25" }
+  ],
+    "70149/tak-tts": [
+    { "qty": "ab 1",  "price": "5,95" },
+    { "qty": "ab 5",  "price": "5,60" },
+    { "qty": "ab 10",  "price": "4,50" },
+    { "qty": "ab 50",  "price": "3,70" },
+    { "qty": "ab 100",  "price": "3,45" }
+  ],
+    "70208/tqk-tts": [
+    { "qty": "ab 1",  "price": "5,30" },
+    { "qty": "ab 5",  "price": "4,95" },
+    { "qty": "ab 10",  "price": "4,10" },
+    { "qty": "ab 50",  "price": "3,90" },
+    { "qty": "ab 100",  "price": "3,75" }
+  ],
+    "70208/tqk-tts-ae": [
+    { "qty": "ab 25",  "price": "5,90" },
+    { "qty": "ab 50",  "price": "4,80" },
+    { "qty": "ab 100",  "price": "4,30" }
+  ],
+    "70000/SU-AXOPlus500-27/28-TTS": [
+    { "qty": "1",  "price": "13,90" }
+  ],
+    "70559/Einleger-SU-59x38cm-2728-TTS": [
+    { "qty": "1",  "price": "4,23" }
   ]
 }
