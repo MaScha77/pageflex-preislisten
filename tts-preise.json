@@ -164,7 +164,7 @@
     { "qty": "ab 50",  "price": "2,99" },
     { "qty": "ab 100",  "price": "2,80" }
   ],
-    "70208/4mp-tts-ae": [
+    "70000/4mp-tts-ae": [
     { "qty": "ab 25",  "price": "5,25" },
     { "qty": "ab 50",  "price": "3,75" },
     { "qty": "ab 100",  "price": "3,25" }
@@ -183,7 +183,7 @@
     { "qty": "ab 50",  "price": "3,90" },
     { "qty": "ab 100",  "price": "3,75" }
   ],
-    "70208/tqk-tts-ae": [
+    "70000/tqk-tts-ae": [
     { "qty": "ab 25",  "price": "5,90" },
     { "qty": "ab 50",  "price": "4,80" },
     { "qty": "ab 100",  "price": "4,30" }
