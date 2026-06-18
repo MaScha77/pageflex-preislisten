@@ -170,9 +170,7 @@
     { "qty": "ab 100",  "price": "3,25" }
   ],
     "70149/tak-tts": [
-    { "qty": "ab 1",  "price": "5,95" },
-    { "qty": "ab 5",  "price": "5,60" },
-    { "qty": "ab 10",  "price": "4,50" },
+    { "qty": "ab 1",  "price": "3,90" },
     { "qty": "ab 50",  "price": "3,70" },
     { "qty": "ab 100",  "price": "3,45" }
   ],
