@@ -175,11 +175,7 @@
     { "qty": "ab 100",  "price": "3,45" }
   ],
     "70208/tqk-tts": [
-    { "qty": "ab 1",  "price": "5,30" },
-    { "qty": "ab 5",  "price": "4,95" },
-    { "qty": "ab 10",  "price": "4,10" },
-    { "qty": "ab 50",  "price": "3,90" },
-    { "qty": "ab 100",  "price": "3,75" }
+    { "qty": "ab 1",  "price": "3,49" }
   ],
     "70000/tqk-tts-ae": [
     { "qty": "ab 25",  "price": "5,90" },
