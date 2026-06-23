@@ -4,5 +4,8 @@
     { "qty": 250,  "price": "1,48" },
     { "qty": 500,  "price": "1,15" },
     { "qty": 1000, "price": "0,92" }
-  ]
+  ],
+  "70597/tui-reflektor-baer-rb": [
+    { "qty": "ab 10",  "price": "1,89" }
+  ]    
 }
