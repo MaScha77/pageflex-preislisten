@@ -37,5 +37,41 @@
     { "qty": 1000, "price": "0,10" },
     { "qty": 2000, "price": "0,07" },
     { "qty": 2500, "price": "0,05" }
-  ]  
+  ],
+  "70000/tui-BCWU01K-LG-3XL-AE-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],
+  "70000/tui-BCWU01K-LG-weiss-3XL-AE-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],
+  "70000/tui-TJ5430-LG-3XL-AE-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70000/tui-BCWU02K-LG-3XL-AE-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70000/tui-BCWU02K-LG-weiss-3XL-AE-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70014/tui-Reiseadapter-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70014/tui-Reiseadapter-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70014/tui-Reiseadapter-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70014/tui-Reiseadapter-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70014/tui-Reiseadapter-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70014/tui-Reiseadapter-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ],  
+  "70014/tui-Reiseadapter-RB": [
+    { "qty": "1",  "price": "13,60" }
+  ]    
 }
