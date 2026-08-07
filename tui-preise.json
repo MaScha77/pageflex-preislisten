@@ -39,39 +39,39 @@
     { "qty": 2500, "price": "0,05" }
   ],
   "70000/tui-BCWU01K-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "36,50" }
   ],
   "70000/tui-BCWU01K-LG-weiss-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "36,50" }
   ],
-  "70000/tui-TJ5430-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
-  ],  
   "70000/tui-BCWU02K-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "38,50" }
   ],  
   "70000/tui-BCWU02K-LG-weiss-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "38,50" }
   ],  
   "70000/tui-BCWU02Q-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "38,50" }
   ],  
   "70000/tui-BCWU02Q-LG-weiss-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
-  ],  
-  "70000/tui-TJ5435N-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "38,50" }
   ],  
   "70000/tui-BCWW01Q-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "36,50" }
   ],  
   "70000/tui-BCWW01Q-LG-weiss-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
+    { "qty": "1",  "price": "36,50" }
   ],  
-  "70000/tui-TJ5436N-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
-  ],  
+  "70000/tui-TJ5430-LG-AE-RB": [
+    { "qty": "1",  "price": "48,70" }
+  ],
   "70000/tui-TJ5431-LG-AE-RB": [
-    { "qty": "1",  "price": "13,60" }
-  ]   
+    { "qty": "1",  "price": "48,70" }
+  ],
+  "70000/tui-TJ5435N-LG-AE-RB": [
+    { "qty": "1",  "price": "52,60" }
+  ],   
+  "70000/tui-TJ5436N-LG-AE-RB": [
+    { "qty": "1",  "price": "52,60" }
+  ]
 }
